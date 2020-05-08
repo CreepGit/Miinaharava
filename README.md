@@ -11,7 +11,7 @@ Pelaaja klikkaa hiiren vasemmalla näppäimellä paljastamattomia ruutuja: jos r
 
 ohjeiden lähde: [wikipedia.fi](https://fi.wikipedia.org/wiki/Miinaharava_(peli))
 
-Kuvia pelistä ja käyttöliittymästä:
+Kuvia pelin käyttöliittymästä:
 ![](Images/pythonw_2020-05-08_11-18-08.png)
 ![](Images/pythonw_2020-05-08_11-18-53.png)
 
